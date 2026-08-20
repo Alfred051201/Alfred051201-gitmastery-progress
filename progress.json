@@ -277,5 +277,14 @@
       "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787248267.947799,
+    "completed_at": 1787248270.6661,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
